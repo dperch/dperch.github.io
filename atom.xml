@@ -2,20 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dperch.github.io</id>
     <title>栖枝perch的小站</title>
-    <updated>2020-03-14T19:06:09.900Z</updated>
+    <updated>2020-03-14T19:23:46.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dperch.github.io"/>
     <link rel="self" href="https://dperch.github.io/atom.xml"/>
-    <subtitle>
-body {
-margin: 0;
+    <subtitle>&lt;a	margin: 0;
 padding: 0;
 line-height: 1.5em;
         font-family: &quot;Times New Roman&quot;, Times, serif;
 font-size: 14px;
         color: #000000;
-background: #f2e7ca url(images/templatemo_body.jpg) top center no-repeat;
- }
+background: #f2e7ca url(images/templatemo_body.jpg) top center no-repeat&gt;栖枝perch&lt;/a&gt;
 </subtitle>
     <logo>https://dperch.github.io/images/avatar.png</logo>
     <icon>https://dperch.github.io/favicon.ico</icon>
